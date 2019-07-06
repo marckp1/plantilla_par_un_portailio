@@ -112,6 +112,7 @@ figure {
 }
 
 .experience-description {
+    color: #888888;
     text-align: left;
     margin: auto 10px;
     font-family: 'Source Sans Pro', sans-serif;
@@ -165,6 +166,53 @@ figure {
 
 .div-articule p {
     line-height: 1em;
+}
+
+.contact {
+    background: #0B615E;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+.form {
+    color: white;
+}
+
+.form button {
+    height: 30px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background: transparent;
+    margin-top: 10px;
+    color: white;
+}
+
+#email {
+    height: 30px;
+    border-radius: 10px;
+    border-color: transparent;
+    padding: 0 35px;
+    background-image: url(../imagenes/cartita.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position-x: 5px;
+    background-position-y: 5px
+}
+
+.icon {
+    border: 10px solid red;
+    display: flex;
+    align-items: center
+}
+
+.contact-icon {
+    border: 3px solid blue;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
 }
 
 body {
