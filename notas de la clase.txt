@@ -25,7 +25,7 @@ JavaScript: es el único lenguaje que funciona actualmente dentro de los navegad
 
 plan de estudio de frontend
 
-1-  (desarrollo web) y (gi )
+1-  (desarrollo web (finalizado)) y (gi (en proceso) )
 2-  responsive Desing
 3-  css grid layout
 4-  animaciones para web

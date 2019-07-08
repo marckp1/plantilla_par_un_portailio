@@ -137,7 +137,6 @@ figure {
 .project-imgContainer {
     width: 200px;
     justify-self: flex-end;
-    object-fit: cover;
 }
 
 .miexperiencia {
